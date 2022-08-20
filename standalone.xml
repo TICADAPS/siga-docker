@@ -45,18 +45,18 @@
         <property name="siga.recaptcha.key" value="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"/>
         <property name="siga.recaptcha.pwd" value="6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe"/>
 
-        <property name="siga.cabecalho.titulo" value="Justiça Federal"/>
-        <property name="siga.cabecalho.logo" value="/siga/imagens/logo-trf2-38px.png"/>
+        <property name="siga.cabecalho.titulo" value="AGÊNCIA PARA O DESENVOLVIMENTO DA ATENÇÃO PRIMÁRIA À SAÚDE"/>
+        <property name="siga.cabecalho.logo" value="https://appsadapsbrasil.com/Projeto-adaps-v2/img/Logo_400x200.png"/>
 
-        <property name="sigaex.modelos.cabecalho.brasao" value="contextpath/imagens/brasaoColoridoTRF2.png"/>
-        <property name="sigaex.modelos.cabecalho.titulo" value="PODER JUDICIÁRIO"/>
-        <property name="sigaex.modelos.cabecalho.subtitulo" value="JUSTIÇA FEDERAL"/>
+        <property name="sigaex.modelos.cabecalho.brasao" value="https://appsadapsbrasil.com/Projeto-adaps-v2/img/iconAdaps.png"/>
+        <property name="sigaex.modelos.cabecalho.titulo" value="ADAPS"/>
+        <property name="sigaex.modelos.cabecalho.subtitulo" value="AGÊNCIA PARA O DESENVOLVIMENTO DA ATENÇÃO PRIMÁRIA À SAÚDE"/>
 
         <property name="siga.relat.brasao" value="brasao.png"/>
-        <property name="siga.relat.titulo" value="PODER JUDICIÁRIO"/>
-        <property name="siga.relat.subtitulo" value="JUSTIÇA FEDERAL"/>
+        <property name="siga.relat.titulo" value="ADAPS"/>
+        <property name="siga.relat.subtitulo" value="AGÊNCIA PARA O DESENVOLVIMENTO DA ATENÇÃO PRIMÁRIA À SAÚDE"/>
 
-        <property name="sigaex.carimbo.texto.superior" value="Justiça Federal"/>
+        <property name="sigaex.carimbo.texto.superior" value="AGÊNCIA PARA O DESENVOLVIMENTO DA ATENÇÃO PRIMÁRIA À SAÚDE"/>
 
         <property name="sigaex.redis.database" value="1"/>
         <property name="sigaex.redis.master.host" value="redisserver"/>
@@ -81,7 +81,7 @@
 
         <property name="sigaex.assinador.externo.popup.url" value="https://ittrufusion.appspot.com"/>
         
-        <property name="ckeditor.url" value="http://localhost:8080/ckeditor/ckeditor/ckeditor.js"/>
+        <property name="ckeditor.url" value="https://8080-projetosiga-sigadocker-wiggt2ny0ak.ws-us62.gitpod.io/ckeditor/ckeditor/ckeditor.js"/>
 
         <property name="sigaex.carimbo.sistema" value="siga-docker"/>
         <property name="sigaex.carimbo.url" value="https://ittrufusion.appspot.com/api/v1"/>
