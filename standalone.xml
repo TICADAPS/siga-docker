@@ -38,12 +38,12 @@
     </extensions>
     <system-properties>
         
-        <property name="siga.jwt.secret" value="***REPLACE-WITH-RANDOM-GUID***"/>
-        <property name="siga.sinc.password" value="***REPLACE-WITH-RANDOM-GUID***"/>
-        <!-- <property name="sigaex.webdav.senha" value="***REPLACE-WITH-RANDOM-GUID***"/> (desabilitado porque estamos com problemas no webdav) -->
+        <property name="siga.jwt.secret" value="ef017a10-310b-4b6a-9abb-17fb5419b0a2"/>
+        <property name="siga.sinc.password" value="ef017a10-310b-4b6a-9abb-17fb5419b0a2"/>
+        <!-- <property name="sigaex.webdav.senha" value="ef017a10-310b-4b6a-9abb-17fb5419b0a2"/> (desabilitado porque estamos com problemas no webdav) -->
 
-        <property name="siga.recaptcha.key" value="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"/>
-        <property name="siga.recaptcha.pwd" value="6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe"/>
+        <property name="siga.recaptcha.key" value="6LewQpQhAAAAAOw5qU9qAlG6hTvTqaF6qwOhvp6i"/>
+        <property name="siga.recaptcha.pwd" value="6LewQpQhAAAAAKuXnnXc3c4t0EGtYosnCsN5zJJH"/>
 
         <property name="siga.cabecalho.titulo" value="AGÊNCIA PARA O DESENVOLVIMENTO DA ATENÇÃO PRIMÁRIA À SAÚDE"/>
         <property name="siga.cabecalho.logo" value="https://appsadapsbrasil.com/Projeto-adaps-v2/img/Logo_400x200.png"/>
@@ -61,7 +61,7 @@
         <property name="sigaex.redis.database" value="1"/>
         <property name="sigaex.redis.master.host" value="redisserver"/>
         <property name="sigaex.redis.master.port" value="6379"/>
-        <property name="sigaex.redis.password" value="***REPLACE-WITH-RANDOM-GUID***"/>
+        <property name="sigaex.redis.password" value="ef017a10-310b-4b6a-9abb-17fb5419b0a2"/>
         <property name="sigaex.redis.slave.host" value="redisserver"/>
         <property name="sigaex.redis.slave.port" value="6379"/>
 
